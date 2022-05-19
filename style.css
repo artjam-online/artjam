@@ -141,6 +141,7 @@ h1 {
     border: none;
     background-color: var(--light);
     color: var(--white);
+    cursor: pointer;
 }
 
 .login button:hover {
