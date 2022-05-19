@@ -1,2 +1,4 @@
-# v1
+# ArtJam
+
  First draft ArtJam website
+
