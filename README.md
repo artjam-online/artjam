@@ -4,4 +4,4 @@
 
 You can view the landing page at
 
-http://artjam.online/shuffle.html
+http://artjam.online/
