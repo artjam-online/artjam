@@ -70,6 +70,11 @@ nav li a:hover {
     /* left: -8px; */
 }
 
+nav li a[href="#"]:hover {
+    box-shadow: 0 -8px var(--yellow);
+    top: 8px;
+}
+
 h1 {
     font-size: 128px;
     color: var(--dark);
