@@ -4,4 +4,4 @@
 
 You can view the landing page at
 
-https://artjam-online.github.io/artjam/
+http://artjam.online/
