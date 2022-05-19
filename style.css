@@ -98,6 +98,57 @@ h1 {
     padding: 32px;
 }
 
+.login {
+    padding: 32px 0;
+    margin: 16px auto;
+    width: 600px;
+    background-color: var(--white);
+    font-size: 125%;
+    font-family: 'Roboto Mono', monospace;
+    margin: 32px 0;
+    box-shadow: 16px 16px var(--red);
+}
+
+.login input {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 100%;
+    text-align: center;
+    background-color: var(--white);
+    border: 2px solid var(--light);
+    box-shadow: 4px 4px var(--yellow);
+}
+
+.login input:focus {
+    outline: none;
+    box-shadow: 4px 4px var(--green);
+}
+
+.login div {
+    padding: 16px 32px;
+    display: flex;
+    justify-content: center;
+}
+
+.login button {
+    position: relative;
+    top: 0;
+    left: 0;
+    transition: ease 0.5s;
+    width: 128px;
+    height: 64px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 100%;
+    border: none;
+    background-color: var(--light);
+    color: var(--white);
+}
+
+.login button:hover {
+    left: -4px;
+    top: -4px;
+    box-shadow: 4px 4px var(--green);
+}
+
 .box:hover {
     top: -8px;
     left: -8px;
